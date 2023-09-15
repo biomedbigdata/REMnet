@@ -1,2 +1,2 @@
-# Masterarbeit
-Sebastian Doetsch's Masterarbeit
+# Master thesis
+Master thesis Sebastian Dötsch
