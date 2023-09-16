@@ -1,0 +1,33 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Epigenetics}{5}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}DNA Methylation}{5}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Regulatory Elements}{6}{subsection.1.1.2}% 
+\contentsline {section}{\numberline {1.2}EpiRegioDB}{6}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Regulatory Elements in EpiRegioDB}{7}{subsection.1.2.1}% 
+\contentsline {section}{\numberline {1.3}Gene regulation}{8}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Gene Regulatory Network}{9}{subsection.1.3.1}% 
+\contentsline {section}{\numberline {1.4}Dysregulation of DNA methylation in cancer}{9}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Methods}{10}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Packages}{10}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Dash}{10}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Graph-tool}{10}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}DysRegNet}{11}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.2}Network generation and data preparation}{12}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Graph-files}{12}{subsection.2.2.1}% 
+\contentsline {paragraph}{Node attributes:}{12}{section*.1}% 
+\contentsline {paragraph}{Edge attributes:}{13}{section*.2}% 
+\contentsline {subsection}{\numberline {2.2.2}CpG-mapping and beta-values}{13}{subsection.2.2.2}% 
+\contentsline {chapter}{\numberline {3}Results}{15}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Network}{15}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Web application}{17}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Structure}{18}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Visualisation}{19}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Filtering}{19}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.3}Use case}{20}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}TCGA}{20}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}DysRegNet}{20}{subsection.3.3.2}% 
+\contentsline {chapter}{\numberline {4}Discussion}{21}{chapter.4}% 
+\contentsline {chapter}{References}{22}{chapter.4}% 
+\contentsline {chapter}{\numberline {A}Appendix}{25}{chapter.1}% 
+\contentsline {section}{\numberline {A.1}Figures}{25}{section.1.1}% 
