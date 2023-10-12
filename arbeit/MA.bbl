@@ -98,7 +98,9 @@ Florian Schmidt, Alexander Marx, Marie Hebel, Martin Wegner, Nina Baumgarten,
 
 \bibitem{dnase_nih}
 National~Library of~Medicine.
-\newblock Dnase1 deoxyribonuclease 1 [ homo sapiens (human) ], 2023.
+\newblock Dnase1 deoxyribonuclease 1.
+\newblock \url{https://www.ncbi.nlm.nih.gov/gene/1773}, 2023.
+\newblock (accessed: 15.09.2023).
 
 \bibitem{dnase_method}
 John Sam et~al.
@@ -112,6 +114,12 @@ Shulha HP Meltzer P Margulies EH Weng Z Furey TS Crawford~GE. Boyle~AP,
   the genome.
 \newblock {\em Cell}, 2008.
 
+\bibitem{TF_fig}
+Evangelia Petsalaki Judith B.~Zaugg Paula~Weidemüller, Maksim~Kholmatov.
+\newblock Transcription factors: Bridge between cell signaling and gene
+  regulation.
+\newblock 2021.
+
 \bibitem{GRN2}
 Enze Liu, Lang Li, and Lijun Cheng.
 \newblock Gene regulatory network review.
@@ -124,15 +132,9 @@ Lewis~J Alberts~B, Johnson~A et~al.
 \newblock Molecular biology of the cell. 4th edition.
 \newblock {\em New York: Garland Science}, 2002.
 
-\bibitem{TF_fig}
-Evangelia Petsalaki Judith B.~Zaugg Paula~Weidemüller, Maksim~Kholmatov.
-\newblock Transcription factors: Bridge between cell signaling and gene
-  regulation.
-\newblock 2021.
-
 \bibitem{TFs}
-Efthimiadou A. Bacopoulou F. Vlachakis D. Chrousos~G.P. Mitsis, T. and
-  E.~Eliopoulos.
+Bacopoulou F. Vlachakis D. Chrouso~G.P. Mitsis~T., Efthimiadou~A. and
+  Eliopoulos E.
 \newblock Transcription factors and evolution: An integral part of gene
   expression (review).
 \newblock 2020.
@@ -155,6 +157,8 @@ Marta Kulis and Manel Esteller.
 \bibitem{dash}
 Plotly~Technologies Inc.
 \newblock Dash plotly.
+\newblock \url{https://plot.ly}.
+\newblock (accessed: 15.09.2023).
 
 \bibitem{graph-tool}
 Tiago~P. Peixoto.
@@ -168,16 +172,73 @@ Olga Lazareva, Zakaria Louadi, Johannes Kersting, Jan Baumbach, David~B.
   inference.
 \newblock {\em bioRxiv}, 2022.
 
+\bibitem{LOLA}
+Christoph~Bock Nathan C.~Sheffield.
+\newblock Lola: enrichment analysis for genomic region sets and regulatory
+  elements in r and bioconductor.
+\newblock 2016.
+
 \bibitem{methylation450}
 Inc. Illumina.
 \newblock Illumina methylation450k.
+\newblock
+  \url{https://support.illumina.com/array/array_kits/infinium_humanmethylation450_beadchip_kit/downloads.html}.
+\newblock (accessed: 15.09.2023).
 
 \bibitem{liftover}
 UCSC Genome~Browser Group.
 \newblock Ucsc liftover.
+\newblock \url{https://genome.ucsc.edu/cgi-bin/hgLiftOver}.
+\newblock (accessed: 15.09.2023).
 
 \bibitem{cosmograph}
 Nitika Rokotyan, Olga Stukova, and Denis Ovysyannikov.
-\newblock Cosmograph: Gpu-accelerated force graph layout and rendering, 2022.
+\newblock Cosmograph: Gpu-accelerated force graph layout and rendering.
+\newblock \url{https://cosmograph.app}, 2022.
+
+\bibitem{NRF1}
+National~Library of~Medicine.
+\newblock Nrf1 nuclear respiratory factor 1.
+\newblock \url{https://www.ncbi.nlm.nih.gov/gene/4899}, 2023.
+\newblock (accessed: 15.09.2023).
+
+\bibitem{brca_general}
+Forma A Baj J Sitarz R Stanisławek~A. Łukasiewicz S, Czeczelewski~M.
+\newblock Breast cancer-epidemiology, risk factors, classification, prognostic
+  markers, and current treatment strategies-an updated review.
+\newblock 2021.
+
+\bibitem{brca_history}
+R.~Sharma.
+\newblock Breast cancer incidence, mortality and mortality-to-incidence ratio
+  (mir) are associated with human development, 1990–2016: evidence from
+  global burden of disease study 2016.
+\newblock 2019.
+
+\bibitem{brca_normal_like}
+Barutca~S. Yersal~O.
+\newblock Biological subtypes of breast cancer: Prognostic and therapeutic
+  implications.
+\newblock 2014.
+
+\bibitem{xena}
+Hastie~M. Goldman~M.J., Craft~B. et~al.
+\newblock Visualizing and interpreting cancer genomics data via the xena
+  platform.
+\newblock 2020.
+
+\bibitem{tcga}
+Mills GB Shaw KR Ozenberger BA Ellrott K Shmulevich I Sander C Stuart~JM
+  Weinstein~JN, Collisson~EA.
+\newblock The cancer genome atlas pan-cancer analysis project.
+\newblock 2013.
+
+\bibitem{tcgabiolinks}
+Catharina Olsen Luciano Garofano Claudia Cava Davide Garolini Thais S. Sabedot
+  Tathiane M. Malta Stefano M. Pagnotta Isabella Castiglioni Michele Ceccarelli
+  Gianluca Bontempi Houtan~Noushmehr Antonio~Colaprico, Tiago C.~Silva.
+\newblock Tcgabiolinks: an r/bioconductor package for integrative analysis of
+  tcga data.
+\newblock 2016.
 
 \end{thebibliography}

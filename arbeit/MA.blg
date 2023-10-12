@@ -3,36 +3,6 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: MA.aux
 The style file: unsrt.bst
 Database file #1: references.bib
-Warning--entry type for "dash" isn't style-file defined
---line 31 of file references.bib
-You're missing a field part---line 36 of file references.bib
- :   addendum = 
- :              (accessed: 15.09.2023),
-I'm skipping whatever remains of this entry
-Warning--entry type for "methylation450" isn't style-file defined
---line 93 of file references.bib
-You're missing a field part---line 98 of file references.bib
- :   addendum = 
- :              (accessed: 15.09.2023),
-I'm skipping whatever remains of this entry
-Warning--entry type for "liftover" isn't style-file defined
---line 101 of file references.bib
-You're missing a field part---line 106 of file references.bib
- :   addendum = 
- :              (accessed: 15.09.2023),
-I'm skipping whatever remains of this entry
-Warning--entry type for "cosmograph" isn't style-file defined
---line 116 of file references.bib
-You're missing a field part---line 122 of file references.bib
- :    addendum = 
- :               (accessed: 15.09.2023),
-I'm skipping whatever remains of this entry
-Warning--entry type for "dnase_nih" isn't style-file defined
---line 248 of file references.bib
-You're missing a field part---line 253 of file references.bib
- :    addendum = 
- :               (accessed: 15.09.2023),
-I'm skipping whatever remains of this entry
 Too many commas in name 1 of "Portela, A., Esteller, M." for entry epigenetics_histone
 while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "Zhang, W., Xu, J." for entry methylation_dnmts1
@@ -66,60 +36,97 @@ while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "Paula Weidemüller, Maksim Kholmatov, Evangelia Petsalaki, Judith B. Zaugg" for entry TF_fig
 while executing---line 944 of file unsrt.bst
 Warning--empty journal in TF_fig
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
+Too many commas in name 1 of "Mitsis T., Efthimiadou A., Bacopoulou F., Vlachakis D., Chrouso, G.P. and Eliopoulos E." for entry TFs
 while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
+Too many commas in name 1 of "Mitsis T., Efthimiadou A., Bacopoulou F., Vlachakis D., Chrouso, G.P. and Eliopoulos E." for entry TFs
 while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
-while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
-while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
-while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
-while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "Mitsis, T., Efthimiadou, A., Bacopoulou, F., Vlachakis, D., Chrousos, G.P. and Eliopoulos, E." for entry TFs
+Too many commas in name 1 of "Mitsis T., Efthimiadou A., Bacopoulou F., Vlachakis D., Chrouso, G.P. and Eliopoulos E." for entry TFs
 while executing---line 944 of file unsrt.bst
 Warning--empty journal in TFs
-You've used 32 entries,
+Warning--empty journal in LOLA
+Too many commas in name 1 of "Łukasiewicz S, Czeczelewski M, Forma A, Baj J, Sitarz R, Stanisławek A." for entry brca_general
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Łukasiewicz S, Czeczelewski M, Forma A, Baj J, Sitarz R, Stanisławek A." for entry brca_general
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Łukasiewicz S, Czeczelewski M, Forma A, Baj J, Sitarz R, Stanisławek A." for entry brca_general
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in brca_general
+Warning--empty journal in brca_history
+Warning--empty journal in brca_normal_like
+Warning--empty journal in xena
+Too many commas in name 1 of "Weinstein JN, Collisson EA, Mills GB, Shaw KR, Ozenberger BA, Ellrott K, Shmulevich I, Sander C, Stuart JM" for entry tcga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Weinstein JN, Collisson EA, Mills GB, Shaw KR, Ozenberger BA, Ellrott K, Shmulevich I, Sander C, Stuart JM" for entry tcga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Weinstein JN, Collisson EA, Mills GB, Shaw KR, Ozenberger BA, Ellrott K, Shmulevich I, Sander C, Stuart JM" for entry tcga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Weinstein JN, Collisson EA, Mills GB, Shaw KR, Ozenberger BA, Ellrott K, Shmulevich I, Sander C, Stuart JM" for entry tcga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Weinstein JN, Collisson EA, Mills GB, Shaw KR, Ozenberger BA, Ellrott K, Shmulevich I, Sander C, Stuart JM" for entry tcga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Weinstein JN, Collisson EA, Mills GB, Shaw KR, Ozenberger BA, Ellrott K, Shmulevich I, Sander C, Stuart JM" for entry tcga
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in tcga
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Antonio Colaprico, Tiago C. Silva, Catharina Olsen, Luciano Garofano, Claudia Cava, Davide Garolini, Thais S. Sabedot, Tathiane M. Malta, Stefano M. Pagnotta, Isabella Castiglioni, Michele Ceccarelli, Gianluca Bontempi, Houtan Noushmehr" for entry tcgabiolinks
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in tcgabiolinks
+You've used 40 entries,
             1791 wiz_defined-function locations,
-            605 strings with 8026 characters,
-and the built_in function-call counts, 5522 in all, are:
-= -- 440
-> -- 281
+            642 strings with 9687 characters,
+and the built_in function-call counts, 6664 in all, are:
+= -- 547
+> -- 317
 < -- 5
-+ -- 107
-- -- 75
-* -- 237
-:= -- 948
-add.period$ -- 94
-call.type$ -- 32
-change.case$ -- 32
++ -- 124
+- -- 84
+* -- 260
+:= -- 1157
+add.period$ -- 128
+call.type$ -- 40
+change.case$ -- 40
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 284
-empty$ -- 555
-format.name$ -- 75
-if$ -- 1233
+cite$ -- 49
+duplicate$ -- 345
+empty$ -- 671
+format.name$ -- 84
+if$ -- 1482
 int.to.chr$ -- 0
-int.to.str$ -- 32
-missing$ -- 27
-newline$ -- 158
-num.names$ -- 38
-pop$ -- 118
+int.to.str$ -- 40
+missing$ -- 34
+newline$ -- 208
+num.names$ -- 46
+pop$ -- 163
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 154
+skip$ -- 160
 stack$ -- 0
 substring$ -- 103
-swap$ -- 59
+swap$ -- 60
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 42
-width$ -- 34
-write$ -- 317
-(There were 28 error messages)
+warning$ -- 9
+while$ -- 50
+width$ -- 42
+write$ -- 410
+(There were 38 error messages)
