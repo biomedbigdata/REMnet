@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{epigenetics2}
+Nolan~C. Gibney~E.
+\newblock Epigenetics and gene expression.
+\newblock 2010.
+
 \bibitem{epigenetics_histone}
 Esteller~M. Portela, A.
 \newblock Epigenetic modifications and human disease.
@@ -191,11 +196,6 @@ UCSC Genome~Browser Group.
 \newblock \url{https://genome.ucsc.edu/cgi-bin/hgLiftOver}.
 \newblock (accessed: 15.09.2023).
 
-\bibitem{cosmograph}
-Nitika Rokotyan, Olga Stukova, and Denis Ovysyannikov.
-\newblock Cosmograph: Gpu-accelerated force graph layout and rendering.
-\newblock \url{https://cosmograph.app}, 2022.
-
 \bibitem{NRF1}
 National~Library of~Medicine.
 \newblock Nrf1 nuclear respiratory factor 1.
@@ -215,6 +215,12 @@ R.~Sharma.
   global burden of disease study 2016.
 \newblock 2019.
 
+\bibitem{tcga}
+Mills GB Shaw KR Ozenberger BA Ellrott K Shmulevich I Sander C Stuart~JM
+  Weinstein~JN, Collisson~EA.
+\newblock The cancer genome atlas pan-cancer analysis project.
+\newblock 2013.
+
 \bibitem{brca_normal_like}
 Barutca~S. Yersal~O.
 \newblock Biological subtypes of breast cancer: Prognostic and therapeutic
@@ -227,12 +233,6 @@ Hastie~M. Goldman~M.J., Craft~B. et~al.
   platform.
 \newblock 2020.
 
-\bibitem{tcga}
-Mills GB Shaw KR Ozenberger BA Ellrott K Shmulevich I Sander C Stuart~JM
-  Weinstein~JN, Collisson~EA.
-\newblock The cancer genome atlas pan-cancer analysis project.
-\newblock 2013.
-
 \bibitem{tcgabiolinks}
 Catharina Olsen Luciano Garofano Claudia Cava Davide Garolini Thais S. Sabedot
   Tathiane M. Malta Stefano M. Pagnotta Isabella Castiglioni Michele Ceccarelli
@@ -240,5 +240,33 @@ Catharina Olsen Luciano Garofano Claudia Cava Davide Garolini Thais S. Sabedot
 \newblock Tcgabiolinks: an r/bioconductor package for integrative analysis of
   tcga data.
 \newblock 2016.
+
+\bibitem{PRC2}
+Chen S Ding L Zhong J Zhao JC Wang L Sarver A Koller A Zhi J Ma Y Yu J Chen J
+  Huang~H. Wang~L, Zeng~X.
+\newblock Brca1 is a negative modulator of the prc2 complex.
+\newblock 2013.
+
+\bibitem{EZH2}
+Krueger H Merajver SD Ventura AC Toy KA Kleer~CG Gonzalez~ME, DuPrie~ML.
+\newblock Histone methyltransferase ezh2 induces akt-dependent genomic
+  instability and brca1 inhibition in breast cancer.
+\newblock 2011.
+
+\bibitem{CtBP2_general}
+De~Siervi A Longo DL Gardner~K. Di~LJ, Fernandez~AG.
+\newblock Transcriptional regulation of brca1 expression by a metabolic switch.
+\newblock 2010.
+
+\bibitem{CtBP2}
+Li~H Shao Y Zhao D Yu W Fu~J. Yang~X, Sun~Y.
+\newblock C-terminal binding protein-2 promotes cell proliferation and
+  migration in breast cancer via suppression of p16ink4a.
+\newblock 2017.
+
+\bibitem{cosmograph}
+Nitika Rokotyan, Olga Stukova, and Denis Ovysyannikov.
+\newblock Cosmograph: Gpu-accelerated force graph layout and rendering.
+\newblock \url{https://cosmograph.app}, 2022.
 
 \end{thebibliography}
